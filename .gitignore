@@ -1,0 +1,13 @@
+.env
+
+.json
+
+.log
+
+bin/
+
+include/
+
+lib/
+
+venv/
